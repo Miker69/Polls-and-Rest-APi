@@ -8,6 +8,8 @@
 5)  ALTER ROLE myprojectuser SET timezone TO 'UTC';
 6)  GRANT ALL PRIVILEGES ON DATABASE django_db TO mike;
 7)  \q
+
+
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Получение списка активных опросов
